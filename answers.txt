@@ -11,3 +11,7 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging creates a commit with 2 parents. Rebasing changes the parent
 of a branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I hope to finally understand how DataFrames work.
